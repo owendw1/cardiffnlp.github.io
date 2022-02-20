@@ -6,42 +6,29 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
-twitter: ''
+org_name: 'CardiffNLP'
+description: Research Group in Natural Language Processing at Cardiff University.
+twitter: 'Cardiff_NLP'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
 contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+ - icon: twitter
+   icon_pack: fab
+   name: Twitter
+   link: 'https://twitter.com/Cardiff_NLP'
+ - icon: github
+   icon_pack: fab
+   name: GitHub
+   link: 'https://github.com/cardiffnlp'
 
 # Site header
 
@@ -52,13 +39,13 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+time_format: '15:04'
+address_format: en-gb
 
 # Site features
 
@@ -67,13 +54,13 @@ math: false
 diagram: false
 privacy_pack: false
 show_related:
-  post: true
+  post: false
   project: true
   publication: true
-  talk: true
+  talk: false
 reading_time: true
 section_pager: false
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

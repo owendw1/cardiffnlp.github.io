@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Events
+title: Recent & Upcoming Activites
+subtitle: We host weekly meetings on **Thursdays at 1pm** (UK time). Some of them are open to external people.
 
 # View.
 #   1 = List
