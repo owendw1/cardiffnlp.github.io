@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CardiffNLP # Website name
-baseurl: 'https://cardiffnlp.github.io' # Website URL
+baseurl: 'https://cardiffnlp.github.io/' # Website URL
 copyright: '© {year} Cardiff NLP' # Footer text, e.g. '© {year} Me'
 
 ############################
