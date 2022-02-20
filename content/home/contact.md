@@ -18,4 +18,4 @@ design:
 
 If you are in Cardiff and interested in NLP, whether you are from industry, academia or the public sector,  please [contact Jose Camacho-Collados](mailto:CamachoColladosJ@cardiff.ac.uk) to join our group and/or subscribe to our **mailing list**.
 
-**Follow us** on social media for the latest information and opportunities!
+**Follow us** on social media for the latest information and opportunities to join us!
