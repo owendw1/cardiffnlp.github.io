@@ -1,6 +1,6 @@
 # CardiffNLP's Group Website
 
-Based on the **Research Group Template** for [Hugo](https://github.com/gohugoio/hugo).
+Based on [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo).
 
 Some useful links:
 
