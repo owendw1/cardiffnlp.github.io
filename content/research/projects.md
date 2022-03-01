@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Research
+title: Projects
 subtitle: 'We are committed to **open science**, and most of our projects and publications are made **open-source**, including data and code. Here is a sample of open projects at CardiffNLP.'
 
 content:
