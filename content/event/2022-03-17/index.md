@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: Title TBA"
+title: "Seminar: \"Morphological Regularities in English Word Formation: Perspectives for Further Development\""
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,7 +12,7 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by Kateryna Krykoniuk (School of English, Communication and Philosophy, Cardiff University)
-abstract: TBA
+abstract: "The main goal of my thesis has been to identify morphological constructions, patterns and regularities in English word formation. For this purpose, I first compiled a sample of 32,000 words, for the annotation of which I then applied a method of formal morphological analysis (e.g. Tyschenko 1969). As a result, a morphological metacorpus has been developed that contains information about morphology, frequency and the year of the first record of words. Next, I applied various statistical methods to this metacorpus, in order to identify the main trends in the data (e.g. Poisson regression, graph-theory network and relative entropy). These different analyses allowed me to construct an overall picture of English word formation and capture the interplay between different parameters of English word-formation grammar. As yet, linguistic studies have looked at individual word-formation processes at a time, whereas the approach adopted in my thesis considers them in their entirety, which makes it innovative. In my talk, I will explain the main findings of my research and will discuss the potential for their further development in the field of natural language processing – for example, for developing a morphological parser and for modelling of English morphology."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

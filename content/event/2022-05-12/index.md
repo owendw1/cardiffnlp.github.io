@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hands-on Class with 🤗: How to Build Machine Learning Collaboratively?"
-subtitle: Open to Everyone
+title: "Seminar: \"Language Models for Social Media: Challenges and Applications\""
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,19 +11,19 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: "Talk by: Thomas Simonini (Machine Learning Engineer at HuggingFace)"
-abstract:
+summary: Talk by Jose Camacho-Chollados and Luis Espinosa-Anke
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-03-31T13:00:00Z
-date_end: 2022-03-31T14:00:00Z
+date: 2022-05-12T13:00:00Z
+date_end: 2022-05-12T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-03-14T00:00:00Z
+publishDate: 2022-02-18T23:11:09Z
 
-authors: [camachocolladosj]
+authors: [camachocolladosj,espinosaankel]
 tags: []
 
 # Is this a featured event? (true/false)
@@ -67,21 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-How can you show what a Machine Learning model does once it's trained? 
-
-In this talk, you're going to learn how to create Machine Learning apps and demos using Streamlit and Gradio, Python libraries for this purpose. Additionally, you'll see how to share them with the rest of the Open Source ecosystem. Learning to create graphic interfaces for models is extremely useful for sharing with other people interesting them.
-
-What is required to follow it?
-
-👉 Basic knowledge of Python
-
-👉 Conceptual knowledge of ML
-
-👉 A google Colab account
-
-👉 A Hugging Face Hub account
-
-**Speaker:** Thomas Simonini (Machine Learning Engineer at HuggingFace)
-
-**Zoom Link:** https://cardiff.zoom.us/j/81951311481?pwd=WkJsN09XZ01OM09KaGsvNEx1SVEvUT09

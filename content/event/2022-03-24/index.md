@@ -4,7 +4,7 @@
 title: "Cardiff NLP Workshop Organisation"
 # event:
 # event_url:
-location: Abacws and Online
+location: Abacws
 # address:
 #   street:
 #   city:
