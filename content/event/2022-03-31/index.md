@@ -68,11 +68,15 @@ slides: ""
 projects: []
 ---
 
+**Speaker:** Thomas Simonini (Machine Learning Engineer at HuggingFace)
+
+**Description of the Session:**
+
 How can you show what a Machine Learning model does once it's trained? 
 
 In this talk, you're going to learn how to create Machine Learning apps and demos using Streamlit and Gradio, Python libraries for this purpose. Additionally, you'll see how to share them with the rest of the Open Source ecosystem. Learning to create graphic interfaces for models is extremely useful for sharing with other people interesting them.
 
-What is required to follow it?
+**What is required to follow it?**
 
 👉 Basic knowledge of Python
 
@@ -82,6 +86,6 @@ What is required to follow it?
 
 👉 A Hugging Face Hub account
 
-**Speaker:** Thomas Simonini (Machine Learning Engineer at HuggingFace)
+Hugging Face organization page for the tutorial: https://huggingface.co/CardiffNLPTutorialHF (anyone can request to join)
 
 **Zoom Link:** https://cardiff.zoom.us/j/81951311481?pwd=WkJsN09XZ01OM09KaGsvNEx1SVEvUT09
