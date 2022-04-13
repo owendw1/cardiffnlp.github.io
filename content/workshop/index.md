@@ -16,7 +16,7 @@ header:
 
 We are organising **a free in-person workshop** on Natural Language Processing. 
 
-It will take place from **June 30th to July 1st 2022** in [Abacws](https://www.cardiff.ac.uk/campus-developments/projects/abacws), the brand-new building for the [School of Computer Scicence](https://www.cardiff.ac.uk/computer-science) and the [School of Mathematics](https://www.cardiff.ac.uk/mathematics) at [Cardiff University](https://www.cardiff.ac.uk/).
+It will take place from **June 30th to July 1st 2022** in [Abacws](https://www.cardiff.ac.uk/campus-developments/projects/abacws), the brand-new building for the [School of Computer Science](https://www.cardiff.ac.uk/computer-science) and the [School of Mathematics](https://www.cardiff.ac.uk/mathematics) at [Cardiff University](https://www.cardiff.ac.uk/).
 
 **Target Audience**
 - The workshop is especially intended to PhD students in UK/Europe, but everyone would be welcome!
