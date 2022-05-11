@@ -5,7 +5,7 @@ publishDate: 2022-03-10T00:00:00Z
 
 links:
 - name: Cardiff NLP Summer Workshop
-  url: workshop/
+  url: https://www.cardiffnlpworkshop.org/
 ---
 
 We are organising a **free** in-person 2-day Natural Language Processing workshop in Cardiff from **June 30 to July 1**. We will have invited speakers, tutorials, networking, etc.

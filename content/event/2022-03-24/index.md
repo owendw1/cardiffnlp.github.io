@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cardiff NLP Workshop Organisation"
+title: "[Internal] Cardiff NLP Workshop Organisation"
 # event:
 # event_url:
 location: Abacws

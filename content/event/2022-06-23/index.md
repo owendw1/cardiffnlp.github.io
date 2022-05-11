@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Internal] Quarterly Group Meeting"
+title: "[Internal] Cardiff NLP Workshop Organisation"
 # event:
 # event_url:
-location: Abacws and Online
+location: Abacws
 # address:
 #   street:
 #   city:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-02-17T13:00:00Z
-date_end: 2022-02-17T14:00:00Z
+date: 2022-06-23T13:00:00Z
+date_end: 2022-06-23T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-02-18T23:10:57Z
+publishDate: 2022-05-11T00:00:00Z
 
 authors: [camachocolladosj]
 tags: []
