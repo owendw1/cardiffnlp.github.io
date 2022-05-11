@@ -12,7 +12,11 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by Jose Camacho-Chollados and Luis Espinosa-Anke
-abstract: ""
+abstract: "Social media represents a fundamental tool to understand the interactions and progress of society in the 21st century. Despite the large amount of information generated in social media platforms, understanding what is going on is not an easy task, even after the significant NLP progress in recent years. Its multilingual, dynamic, informal and multimodal nature, including the use of emojis, means that standard techniques are seldom optimal.
+
+In this talk, we will present advances on social media processing, and in particular the development of language models for Twitter ([TweetEval](https://github.com/cardiffnlp/tweeteval) for English and [XLM-T](https://github.com/cardiffnlp/xlm-t) for multiple languages), as well as unified benchmarks for standard NLP tasks such as sentiment analysis or hate speech detection. We will also explain our latest project related to the temporal aspect in social media, which is one of the most important NLP challenges nowadays. In this regard, we will present our recent [TimeLMs](https://github.com/cardiffnlp/timelms) initiative, with new insights and the commitment to share a new updated language model every three months.
+
+Finally, we will show several use cases for these specialized models in social media, in particular for analysing political discourse."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
