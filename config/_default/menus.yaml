@@ -20,5 +20,5 @@ main:
     url: event
     weight: 50
   - name: Workshop
-    url: workshop
+    url: https://www.cardiffnlpworkshop.org/
     weight: 60
