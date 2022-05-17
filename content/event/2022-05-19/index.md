@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: TBD"
+title: "Seminar: Quantifying Synthesis and Fusion and their Impact on Machine Translation"
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,7 +12,8 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by Arturo Oncevay (University of Edinburgh)
-abstract: ""
+abstract: "Theoretical work in morphological typology offers the possibility of measuring morphological diversity on a continuous scale. However, literature in NLP typically labels a whole language with a strict type of morphology, e.g. fusional or agglutinative. In this talk, we propose to reduce the theoretical rigidity of such claims, by quantifying the morphological typology at the word and segment level. We are going to discuss Payne (2017)'s approach to classify morphology using two indices: synthesis (from 1 for analytic to 3 or more for polysynthetic) and fusion (from 0 for agglutinative to 1 for fusional), how to compute them, and the relationship between machine translation performance and those degrees of synthesis and fusion at word (nouns and verbs for English-Turkish, and verbs in English-Spanish) and segment level (previous language pairs plus English-German in both directions).
+This is a work to appear at NAACL 2022."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,3 +69,6 @@ projects: []
 ---
 
 **Invited Speaker:** [Arturo Oncevay](https://aoncevay.github.io/)
+
+**Short Bio:**
+Arturo Oncevay (he/him) is a PhD candidate at the University of Edinburgh, Scotland. He was a member of the Artificial Intelligence group at the Pontificia Universidad Católica del Perú (PUCP, Peru), where he graduated from Informatics Engineering and Masters in Computer Science. His work focuses on low-resource machine translation and in computational typology for NLP, and he likes to support the development of NLP tools for endangered languages spoken in the Amazonia. He has also co-organised the AmericasNLP workshop (NAACL 2021) and shared task on machine translation (NAACL 2021) and speech-to-text translation (in preparation for NeurIPS 2022).
