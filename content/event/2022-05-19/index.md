@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: Quantifying Synthesis and Fusion and their Impact on Machine Translation"
+title: "Seminar: \"Quantifying Synthesis and Fusion and their Impact on Machine Translation\""
 # event:
 # event_url:
 location: Abacws and Online
