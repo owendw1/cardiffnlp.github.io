@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: TBD"
+title: "Seminar: \" Textual Complexity is in the Eye of the Beholder\" "
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,7 +12,7 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by Sian Gooding (University of Cambridge)
-abstract: ""
+abstract: "The difficulty of a text is highly subjective, yet this factor is often neglected in text simplification and readability systems which use a “one-size-fits-all” approach. In this talk, I will discuss what contributes to text complexity, emphasising how this is dependent on the intended audience. Furthermore, I will present work showing how active learning can be used to create bespoke complexity models for individual readers."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,3 +68,6 @@ projects: []
 ---
 
 **Invited Speaker:** [Sian Gooding](https://siangooding.github.io/)
+
+**Short Bio:**
+Sian Gooding  is a PhD student at the University of Cambridge [Computer Laboratory](https://www.cst.cam.ac.uk/) within the [Natural Language and Information Processing group](https://www.cl.cam.ac.uk/research/nl/) and a visiting researcher at the [Language, Computation and Cognition Lab](https://lacclab.github.io/). Her [research](https://siangooding.github.io/research.html) focuses on readability and text simplification – the study of how to automatically adapt text to suit the needs of different audiences.
