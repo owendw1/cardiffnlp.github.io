@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: \" Textual Complexity is in the Eye of the Beholder\" "
+title: "Seminar: \"Textual Complexity is in the Eye of the Beholder\" "
 # event:
 # event_url:
 location: Abacws and Online
