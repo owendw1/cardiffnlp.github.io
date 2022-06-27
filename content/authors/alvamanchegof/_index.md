@@ -16,10 +16,10 @@ organizations:
   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include text-to-text generation, evaluation of natural language generation, and NLP for education.
+bio: My research interests include text adaptation, evaluation of natural language generation, and NLP for education.
 
 interests:
-- Text-to-Text Generation
+- Text Adaptation
 - Evaluation of Natural Language Generation
 - Natural Language Processing for Education
 
