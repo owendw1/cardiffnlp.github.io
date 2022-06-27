@@ -6,7 +6,7 @@ title: Jose Camacho-Collados
 superuser: true
 
 # Role/position
-role: Lecturer & UKRI Future Leaders Fellow
+role: Senior Lecturer & UKRI Future Leaders Fellow
 
 # Organizations/Affiliations
 organizations:
