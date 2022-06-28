@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hypernym Discovery"
-summary: "SemEval-2018 Task 9: Hypernym Discovery"
-authors: [camachocolladosj,espinosaankel]
-tags: [sharedtask]
+title: "Tweet   NLP"
+summary: "A website to enable users to use cutting-edge language technologies in social media."
+authors: [camachocolladosj,espinosaankel,loureirod,ushioa,antypasd,rezaeek,boissonj]
+tags: [twitter]
 categories: []
-date: 2022-02-18T21:27:12Z
+date: 2022-06-28T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://competitions.codalab.org/competitions/17119"
+external_link: "https://tweetnlp.org/ "
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
