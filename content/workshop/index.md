@@ -28,10 +28,4 @@ It will take place from **June 30th to July 1st 2022** in [Abacws](https://www.c
 
 And of course you will have the chance to visit our lovely city while in Cardiff!
 
-**Important Dates**
-- **Application Period:** TBD
-- **Notification of Acceptance:** TBD
-- **Registration:** TBD
-- **Workshop:** 30 June - 1 July 2022
-
-More details will be announced soon. For now, save the date!
+More details [here](https://www.cardiffnlpworkshop.org/)!
