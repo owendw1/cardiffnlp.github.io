@@ -11,7 +11,7 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: Talk by Lowri Williams (Cardiff University)
+summary: Talk by [Lowri Williams](https://lowriwilliams.co.uk/) (Cardiff University)
 abstract: ""
 
 # Talk start and end times.
