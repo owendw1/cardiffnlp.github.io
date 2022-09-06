@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Internal] Cardiff NLP Hackathon Organisation"
+title: "[Internal] Quaterly Group Meeting"
 # event:
 # event_url:
 location: Abacws and Online
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-09-08T13:00:00Z
-date_end: 2022-09-08T14:00:00Z
+date: 2022-09-22T13:00:00Z
+date_end: 2022-09-22T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-08-01T00:00:00Z
+publishDate: 2022-09-06T00:00:00Z
 
-authors: [camachocolladosj,siddiquez]
+authors: [camachocolladosj]
 tags: []
 
 # Is this a featured event? (true/false)
