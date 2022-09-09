@@ -21,8 +21,8 @@ The School of Computer Science and Informatics at Cardiff University (Wales, Uni
 Further details can be found here:
 
 - [Lecturer (Teaching & Scholarship)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5463&PageType=JobDetails&jobid=1993417)
-- [Lecturer (Teaching & Research)]()
-- [Senior Lecturer (Teaching & Scholarship)]()
-- [Senior Lecturer (Teaching & Research)]()
+- [Lecturer (Teaching & Research)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5463&PageType=JobDetails&jobid=1993419)
+- [Senior Lecturer (Teaching & Scholarship)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5463&PageType=JobDetails&jobid=1993420)
+- [Senior Lecturer (Teaching & Research)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5463&PageType=JobDetails&jobid=1993423)
 
 **Application Deadline:** Friday, 7 October 2022.
