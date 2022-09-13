@@ -23,4 +23,4 @@ In CardiffNLP, we work on various aspects of **theoretical and applied NLP**.
 We believe that **NLP is interdisciplinary** in nature, and that is why we are interested in both **developing NLP technologies** and **involving domain experts** who can bring the field forward, and **enable impact** in applications that matter. 
 
 We conduct [active research](research) in diverse NLP topics such as lexical semantics, commonsense reasoning, multilinguality, downstream and social NLP applications (e.g. health, social media) and many others.
-Check our [team members' websites](people) and [publications](publications) to find out more!
+Check our [team members' websites](people) and [publications](publication) to find out more!
