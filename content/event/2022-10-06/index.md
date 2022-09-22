@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Conference-like Presentations"
+title: "Seminar: TBD "
 # event:
 # event_url:
 location: Abacws and Online
@@ -11,8 +11,8 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: Talks by authors of papers accepted to COLING 2022
-abstract:
+summary: Talk by [Nuria Rodríguez Barroso](https://scholar.google.com/citations?user=vwb4B_kAAAAJ&hl=en) (Universidad de Granada)
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+**Invited Speaker:** [Nuria Rodríguez Barroso](https://scholar.google.com/citations?user=vwb4B_kAAAAJ&hl=en)
