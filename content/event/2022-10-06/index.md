@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: TBD "
+title: "Seminar: \"Federated Learning for Exploiting Annotator Disagreements in NLP\""
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,7 +12,7 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by [Nuria Rodríguez Barroso](https://scholar.google.com/citations?user=vwb4B_kAAAAJ&hl=en) (Universidad de Granada)
-abstract: ""
+abstract: "One of the main challenges of NLP is how to deal with subjectivity. From the process of labeling datasets, challenges such as deciding a gold standard from the labels of multiple annotators already arise. Commonly, the final label is decided by some majority vote style consensus. However, with this approach, divergent information (those annotators with different opinions) is lost from the design of the dataset and cannot be used for training. We hypothesize that this information is valuable, and study how to exploit it using federated learning."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
