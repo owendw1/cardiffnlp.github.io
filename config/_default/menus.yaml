@@ -22,3 +22,6 @@ main:
   - name: Workshop
     url: https://www.cardiffnlpworkshop.org/
     weight: 60
+  - name: Hackathon
+    url: hackathon
+    weight: 70
