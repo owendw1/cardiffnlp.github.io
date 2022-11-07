@@ -14,9 +14,9 @@ header:
   image: ""
 ---
 
-📅  16th - 17th Nov
+📅  16th and 17th Nov, 10am - 5pm
 
-📍  TBD
+📍  [Tramshed Tech](https://goo.gl/maps/uz3QY1R6eygWcz4F9)
 
 Sponsored by [AMPLYFI](https://amplyfi.com/)
 
@@ -27,4 +27,4 @@ At this 2-day hackathon you'll enter the fascinating world of **Natural Language
 - Networking with potential employers 🗣
 - Form your own team of 3-5 people or we’ll help to find you one!
 
-Register your interest [here](https://forms.gle/WnDk199QQvdLYJTBA) before 11th Nov!
+Register [here](https://forms.gle/1rm34rDaKEUz3ZZf7)!
