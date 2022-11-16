@@ -16,7 +16,7 @@ design:
 ---
 <div style="width: 100%; overflow: hidden;">
 
-<div style="width: 900px; float: left;">
+<div style="width:70%; float: left;">
 
 <center>{{< figure src="group_pic.jpg" caption="Team Members" >}}</center>
 
