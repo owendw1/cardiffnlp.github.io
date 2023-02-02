@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: TBA"
+title: "Seminar: \"Towards compute efficient large language models\""
 # event:
 # event_url:
 location: Abacws and Online
@@ -11,13 +11,13 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: Talk by [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en) (University of Oxford)
-abstract: ""
+summary: Talk by [Nikos Aletras](https://nikosaletras.com/) (University of Sheffield)
+abstract: "Large language models (LLMs) are really effective when adapted in various downstream NLP tasks. However, pre-training requires access to large compute resources. In this talk, I will present our work on (1) speeding up pre-training with simple objectives compared to the widely used masked language modelling, (2) how the choice of pre-training objective affects LLMs ability in capturing linguistic information, and (3) how we can use an unlimited vocabulary with only a relatively small number of parameters."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-16T13:00:00Z
-date_end: 2023-02-16T14:00:00Z
+date: 2023-02-09T13:00:00Z
+date_end: 2023-02-09T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-**Invited Speaker:** [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en)
+**Invited Speaker:** [Nikos Aletras](https://nikosaletras.com/)

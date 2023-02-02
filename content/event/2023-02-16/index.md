@@ -11,13 +11,13 @@ location: Abacws and Online
 #   region:
 #   postcode:
 #   country:
-summary: Talk by [Nikos Aletras](https://nikosaletras.com/) (University of Sheffield)
+summary: Talk by [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en) (University of Oxford)
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-02-09T13:00:00Z
-date_end: 2023-02-09T14:00:00Z
+date: 2023-02-16T13:00:00Z
+date_end: 2023-02-16T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-**Invited Speaker:** [Nikos Aletras](https://nikosaletras.com/)
+**Invited Speaker:** [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en)
