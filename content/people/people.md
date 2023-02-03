@@ -20,7 +20,7 @@ content:
   - Research Staff
   - PhD Students
   - Visitors
-  - Alumni
+  - Former Members
 design:
   show_interests: true
   show_role: true
