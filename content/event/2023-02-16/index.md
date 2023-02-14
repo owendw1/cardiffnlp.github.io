@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Seminar: TBA"
+title: "Seminar: \"Associating Texts with Knowledge Graphs\""
 # event:
 # event_url:
 location: Abacws and Online
@@ -12,7 +12,7 @@ location: Abacws and Online
 #   postcode:
 #   country:
 summary: Talk by [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en) (University of Oxford)
-abstract: ""
+abstract: "This talk will discuss (ongoing) research on linking and classifying texts with knowledge graphs (KGs). There are mainly two parts: (i) KG enrichment, identifying out-of-KG mentions through entity linking (and their placement into the KG); (ii) Classification of texts into concepts in a large KG. We will present applications in the clinical domain as examples, e.g., clinical ontologies, including UMLS, SNOMED-CT, and ICD, and the current state of automated clinical coding [1-2], and propose future studies."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,3 +68,9 @@ projects: []
 ---
 
 **Invited Speaker:** [Hang Dong](https://scholar.google.com/citations?user=yWs0LD8AAAAJ&hl=en)
+
+**References:**
+
+[1] Dong, H., Falis, M., Whiteley, W., Alex, B., Matterson, J., Ji, S., ... & Wu, H. (2022). Automated clinical coding: what, why, and where we are?. npj digital medicine, 5(1), 159. https://doi.org/10.1038/s41746-022-00705-7
+
+[2] Dong, H., Suárez-Paniagua, V., Whiteley, W., & Wu, H. (2021). Explainable automated coding of clinical notes using hierarchical label-wise attention networks and label embedding initialisation. Journal of Biomedical Informatics, 116, 103728. https://arxiv.org/abs/2010.15728
