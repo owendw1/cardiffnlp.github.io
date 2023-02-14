@@ -9,6 +9,180 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+@inproceedings{barbieri-etal-2022-xlm,
+    title = "{XLM}-{T}: Multilingual Language Models in {T}witter for Sentiment Analysis and Beyond",
+    author = "Barbieri, Francesco  and
+      Espinosa Anke, Luis  and
+      Camacho-Collados, Jose",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.27",
+    pages = "258--266",
+    abstract = "Language models are ubiquitous in current NLP, and their multilingual capacity has recently attracted considerable attention. However, current analyses have almost exclusively focused on (multilingual variants of) standard benchmarks, and have relied on clean pre-training and task-specific corpora as multilingual signals. In this paper, we introduce XLM-T, a model to train and evaluate multilingual language models in Twitter. In this paper we provide: (1) a new strong multilingual baseline consisting of an XLM-R (Conneau et al. 2020) model pre-trained on millions of tweets in over thirty languages, alongside starter code to subsequently fine-tune on a target task; and (2) a set of unified sentiment analysis Twitter datasets in eight different languages and a XLM-T model trained on this dataset.",
+}
+
+@inproceedings{edwards-etal-2022-guiding,
+    title = "Guiding Generative Language Models for Data Augmentation in Few-Shot Text Classification",
+    author = "Edwards, Aleksandra  and
+      Ushio, Asahi  and
+      Camacho-collados, Jose  and
+      Ribaupierre, Helene  and
+      Preece, Alun",
+    booktitle = "Proceedings of the Fourth Workshop on Data Science with Human-in-the-Loop (Language Advances)",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates (Hybrid)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.dash-1.8",
+    pages = "51--63",
+    abstract = "Data augmentation techniques are widely used for enhancing the performance of machine learning models by tackling class imbalance issues and data sparsity. State-of-the-art generative language models have been shown to provide significant gains across different NLP tasks. However, their applicability to data augmentation for text classification tasks in few-shot settings have not been fully explored, especially for specialised domains. In this paper, we leverage GPT-2 (Radford et al, 2019) for generating artificial training instances in order to improve classification performance. Our aim is to analyse the impact the selection process of seed training examples has over the quality of GPT-generated samples and consequently the classifier performance. We propose a human-in-the-loop approach for selecting seed samples. Further, we compare the approach to other seed selection strategies that exploit the characteristics of specialised domains such as human-created class hierarchical structure and the presence of noun phrases. Our results show that fine-tuning GPT-2 in a handful of label instances leads to consistent classification improvements and outperform competitive baselines. The seed selection strategies developed in this work lead to significant improvements over random seed selection for specialised domains. We show that guiding text generation through domain expert selection can lead to further improvements, which opens up interesting research avenues for combining generative models and active learning.",
+}
+
+@inproceedings{ushio-etal-2022-named,
+    title = "Named Entity Recognition in {T}witter: A Dataset and Analysis on Short-Term Temporal Shifts",
+    author = "Ushio, Asahi  and
+      Barbieri, Francesco  and
+      Sousa, Vitor  and
+      Neves, Leonardo  and
+      Camacho-Collados, Jose",
+    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = nov,
+    year = "2022",
+    address = "Online only",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.aacl-main.25",
+    pages = "309--319",
+    abstract = "Recent progress in language model pre-training has led to important improvements in Named Entity Recognition (NER). Nonetheless, this progress has been mainly tested in well-formatted documents such as news, Wikipedia, or scientific articles. In social media the landscape is different, in which it adds another layer of complexity due to its noisy and dynamic nature. In this paper, we focus on NER in Twitter, one of the largest social media platforms, and construct a new NER dataset, TweetNER7, which contains seven entity types annotated over 11,382 tweets from September 2019 to August 2021. The dataset was constructed by carefully distributing the tweets over time and taking representative trends as a basis. Along with the dataset, we provide a set of language model baselines and perform an analysis on the language model performance on the task, especially analyzing the impact of different time periods. In particular, we focus on three important temporal aspects in our analysis: short-term degradation of NER models over time, strategies to fine-tune a language model over different periods, and self-labeling as an alternative to lack of recently-labeled data. TweetNER7 is released publicly (https://huggingface.co/datasets/tner/tweetner7) along with the models fine-tuned on it (NER models have been integrated into TweetNLP and can be found at https://github.com/asahi417/tner/tree/master/examples/tweetner7{\_}paper).",
+}
+
+
+@inproceedings{rezaee-camacho-collados-2022-probing,
+    title = "Probing Relational Knowledge in Language Models via Word Analogies",
+    author = "Rezaee, Kiamehr  and
+      Camacho-Collados, Jose",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.289",
+    pages = "3930--3936",
+    abstract = "Understanding relational knowledge plays an integral part in natural language comprehension. When it comes to pre-trained language models (PLM), prior work has been focusing on probing relational knowledge this by filling the blanks in pre-defined prompts such as {``}The capital of France is {---}''. However, these probes may be affected by the co-occurrence of target relation words and entities (e.g. {``}capital{''}, {``}France{''} and {``}Paris{''}) in the pre-training corpus. In this work, we extend these probing methodologies leveraging analogical proportions as a proxy to probe relational knowledge in transformer-based PLMs without directly presenting the desired relation. In particular, we analysed the ability of PLMs to understand (1) the directionality of a given relation (e.g. Paris-France is not the same as France-Paris); (2) the ability to distinguish types on a given relation (both France and Japan are countries); and (3) the relation itself (Paris is the capital of France, but not Rome). Our results show how PLMs are extremely accurate at (1) and (2), but have clear room for improvement for (3). To better understand the reasons behind this behaviour and mistakes made by PLMs, we provide an extended quantitative analysis based on relevant factors such as frequency.",
+}
+
+@inproceedings{antypas-etal-2022-twitter,
+    title = "{T}witter Topic Classification",
+    author = "Antypas, Dimosthenis  and
+      Ushio, Asahi  and
+      Camacho-Collados, Jose  and
+      Silva, Vitor  and
+      Neves, Leonardo  and
+      Barbieri, Francesco",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.299",
+    pages = "3386--3400",
+    abstract = "Social media platforms host discussions about a wide variety of topics that arise everyday. Making sense of all the content and organising it into categories is an arduous task. A common way to deal with this issue is relying on topic modeling, but topics discovered using this technique are difficult to interpret and can differ from corpus to corpus. In this paper, we present a new task based on tweet topic classification and release two associated datasets. Given a wide range of topics covering the most important discussion points in social media, we provide training and testing data from recent time periods that can be used to evaluate tweet classification models. Moreover, we perform a quantitative evaluation and analysis of current general- and domain-specific language models on the task, which provide more insights on the challenges and nature of the task.",
+}
+
+@inproceedings{loureiro-etal-2022-tempowic,
+    title = "{T}empo{W}i{C}: An Evaluation Benchmark for Detecting Meaning Shift in Social Media",
+    author = "Loureiro, Daniel  and
+      D{'}Souza, Aminette  and
+      Muhajab, Areej Nasser  and
+      White, Isabella A.  and
+      Wong, Gabriel  and
+      Espinosa-Anke, Luis  and
+      Neves, Leonardo  and
+      Barbieri, Francesco  and
+      Camacho-Collados, Jose",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.296",
+    pages = "3353--3359",
+    abstract = "Language evolves over time, and word meaning changes accordingly. This is especially true in social media, since its dynamic nature leads to faster semantic shifts, making it challenging for NLP models to deal with new content and trends. However, the number of datasets and models that specifically address the dynamic nature of these social platforms is scarce. To bridge this gap, we present TempoWiC, a new benchmark especially aimed at accelerating research in social media-based meaning shift. Our results show that TempoWiC is a challenging benchmark, even for recently-released language models specialized in social media.",
+}
+
+@inproceedings{loureiro-etal-2022-timelms,
+    title = "{T}ime{LM}s: Diachronic Language Models from {T}witter",
+    author = "Loureiro, Daniel  and
+      Barbieri, Francesco  and
+      Neves, Leonardo  and
+      Espinosa Anke, Luis  and
+      Camacho-collados, Jose",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: System Demonstrations",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-demo.25",
+    doi = "10.18653/v1/2022.acl-demo.25",
+    pages = "251--260",
+    abstract = "Despite its importance, the time variable has been largely neglected in the NLP and language model literature. In this paper, we present TimeLMs, a set of language models specialized on diachronic Twitter data. We show that a continual learning strategy contributes to enhancing Twitter-based language models{'} capacity to deal with future and out-of-distribution tweets, while making them competitive with standardized and more monolithic benchmarks. We also perform a number of qualitative analyses showing how they cope with trends and peaks in activity involving specific named entities or concept drift. TimeLMs is available at github.com/cardiffnlp/timelms.",
+}
+
+@inproceedings{boisson-etal-2022-cardiffnlp,
+    title = "{C}ardiff{NLP}-Metaphor at {S}em{E}val-2022 Task 2: Targeted Fine-tuning of Transformer-based Language Models for Idiomaticity Detection",
+    author = "Boisson, Joanne  and
+      Camacho-Collados, Jose  and
+      Espinosa-Anke, Luis",
+    booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.semeval-1.20",
+    doi = "10.18653/v1/2022.semeval-1.20",
+    pages = "169--177",
+    abstract = "This paper describes the experiments ran for SemEval-2022 Task 2, subtask A, zero-shot and one-shot settings for idiomaticity detection. Our main approach is based on fine-tuning transformer-based language models as a baseline to perform binary classification. Our system, CardiffNLP-Metaphor, ranked 8th and 7th (respectively on zero- and one-shot settings on this task. Our main contribution lies in the extensive evaluation of transformer-based language models and various configurations, showing, among others, the potential of large multilingual models over base monolingual models. Moreover, we analyse the impact of various input parameters, which offer interesting insights on how language models work in practice.",
+}
+
+@inproceedings{camacho-collados-etal-2022-tweetnlp,
+    title = "{T}weet{NLP}: Cutting-Edge Natural Language Processing for Social Media",
+    author = "Camacho-collados, Jose  and
+      Rezaee, Kiamehr  and
+      Riahi, Talayeh  and
+      Ushio, Asahi  and
+      Loureiro, Daniel  and
+      Antypas, Dimosthenis  and
+      Boisson, Joanne  and
+      Espinosa Anke, Luis  and
+      Liu, Fangyu  and
+      Mart{\'\i}nez C{\'a}mara, Eugenio",
+    booktitle = "Proceedings of the The 2022 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-demos.5",
+    pages = "38--49",
+    abstract = "In this paper we present TweetNLP, an integrated platform for Natural Language Processing (NLP) in social media. TweetNLP supports a diverse set of NLP tasks, including generic focus areas such as sentiment analysis and named entity recognition, as well as social media-specific tasks such as emoji prediction and offensive language identification. Task-specific systems are powered by reasonably-sized Transformer-based language models specialized on social media text (in particular, Twitter) which can be run without the need for dedicated hardware or cloud services. The main contributions of TweetNLP are: (1) an integrated Python library for a modern toolkit supporting social media analysis using our various task-specific models adapted to the social domain; (2) an interactive online demo for codeless experimentation using our models; and (3) a tutorial covering a wide variety of typical social media applications.",
+}
+
+@inproceedings{anderson-camacho-collados-2022-assessing,
+    title = "Assessing the Limits of the Distributional Hypothesis in Semantic Spaces: Trait-based Relational Knowledge and the Impact of Co-occurrences",
+    author = "Anderson, Mark  and
+      Camacho-collados, Jose",
+    booktitle = "Proceedings of the 11th Joint Conference on Lexical and Computational Semantics",
+    month = jul,
+    year = "2022",
+    address = "Seattle, Washington",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.starsem-1.15",
+    doi = "10.18653/v1/2022.starsem-1.15",
+    pages = "173--185",
+    abstract = "The increase in performance in NLP due to the prevalence of distributional models and deep learning has brought with it a reciprocal decrease in interpretability. This has spurred a focus on what neural networks learn about natural language with less of a focus on how. Some work has focused on the data used to develop data-driven models, but typically this line of work aims to highlight issues with the data, e.g. highlighting and offsetting harmful biases. This work contributes to the relatively untrodden path of what is required in data for models to capture meaningful representations of natural language. This is entails evaluating how well English and Spanish semantic spaces capture a particular type of relational knowledge, namely the traits associated with concepts (e.g. bananas-yellow), and exploring the role of co-occurrences in this context.",
+}
+
 @inproceedings{ushio-etal-2022-generative,
     title = "Generative Language Models for Paragraph-Level Question Generation",
     author = "Ushio, Asahi  and
