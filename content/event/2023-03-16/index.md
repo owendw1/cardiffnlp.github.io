@@ -21,7 +21,7 @@ date_end: 2023-03-16T14:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-03-13T00:00:00Z
+publishDate: 2022-03-15T00:00:00Z
 
 authors: [zhouy]
 tags: []
@@ -67,6 +67,4 @@ slides: ""
 projects: []
 ---
 
-**Invited Speaker:** [Alon Samuel](https://www.linkedin.com/in/alon-samuel-664b8891/) and [Chris Bowdon](https://www.linkedin.com/in/chris-bowdon-657714146/) ([Polecat](https://polecat.com/))
-
-[Polecat](https://polecat.com/) is a leading reputational intelligence company that helps companies influence their corporate reputation using real-time textual news sources and social media.
+**Invited Speaker:** [Yi Zhou](https://jodiechou.github.io/) (Cardiff University - COMSC)
