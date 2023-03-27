@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Luis Espinosa-Anke
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true
